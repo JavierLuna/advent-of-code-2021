@@ -1,4 +1,4 @@
-# Advent of code 2020
+# Advent of code 2021
 
 Here's my 2021 attempt at AOC. I will try to do this daily but I will not sweat it if I cannot do it one day.
 
